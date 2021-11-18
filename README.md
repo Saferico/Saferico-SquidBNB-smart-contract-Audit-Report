@@ -1,2 +1,2 @@
-# Saferico-SquidBNB-smart-contract-Audit-Report
-Saferico/SquidBNB-smart-contract-Audit-Report(automatic type )
+# SquidBNB-smart-contract-Audit-Report
+SquidBNB-smart-contract-Audit-Report(automatic type )
